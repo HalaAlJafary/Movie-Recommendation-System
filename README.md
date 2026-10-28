@@ -159,7 +159,3 @@ The trained model is saved at the end as `my_final_ncf_model.keras`.
 Python · TensorFlow / Keras · Pandas · NumPy · Matplotlib
 
 ---
-
-## 📄 License
-
-Add your preferred license here (e.g., MIT). Note that the MovieLens dataset has its own [usage license](https://grouplens.org/datasets/movielens/).
